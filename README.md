@@ -1,2 +1,2 @@
-# DurableFunctionAsWebJobs
+# Durable Functions As WebJobs
 Sample
